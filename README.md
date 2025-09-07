@@ -1,2 +1,2 @@
-# webview
-meu primeiro aplicativo android 
+# flask, python
+estrutura e flask e projeto lading page 
